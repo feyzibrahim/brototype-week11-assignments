@@ -1,0 +1,13 @@
+.profile_card {
+  background-color: rgb(49, 166, 255);
+  margin: 20px;
+  padding: 10px;
+}
+
+.profile_card p {
+  color: #000;
+}
+
+div {
+  text-align: center;
+}
